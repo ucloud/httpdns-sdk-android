@@ -14,10 +14,8 @@ HttpDns SDK for Android
 
 ### 注册使用
 
-* 请前往[**
-  应用管理**](https://console.ucloud.cn/uhttpdns/app_manage)页面，创建您的应用。并将创建成功后对应的***AppKey***和***AppSecret***记录下。
-* 在[**
-  域名管理**](https://console.ucloud.cn/uhttpdns/domain_manage)页面，编辑您需要授权解析的域名列表，**不在域名管理中的域名，sdk将无法解析**。
+* 请前往[**应用管理**](https://console.ucloud.cn/uhttpdns/app_manage)页面，创建您的应用。并将创建成功后对应的***AppKey***和***AppSecret***记录下。
+* 在[**域名管理**](https://console.ucloud.cn/uhttpdns/domain_manage)页面，编辑您需要授权解析的域名列表，**不在域名管理中的域名，sdk将无法解析**。
 
 ### Dependencies
 
