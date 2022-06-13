@@ -8,7 +8,9 @@ HttpDns SDK for Android
 
 ## 兼容性
 
-> android 6.0(api23) 及以上
+* android 6.0(api23) 及以上
+* Android Studio 2021.+
+* 建议Gradle 7.+，gradle plug 7.+
 
 ## QuickStart
 
